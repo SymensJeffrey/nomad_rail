@@ -6,18 +6,18 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-coach = Coach.create(name:"Christy Schumm")
+coach = Coach.new(name:"Christy Schumm")
 coach.save
 
-coach = Coach.create(name:"Natalia Stanton Jr.")
+coach = Coach.new(name:"Natalia Stanton Jr.")
 coach.save
 
-coach = Coach.create(name:"Nola Murazik V")
+coach = Coach.new(name:"Nola Murazik V")
 coach.save
 
-coach = Coach.create(name:"Elyssa O'Kon")
+coach = Coach.new(name:"Elyssa O'Kon")
 coach.save
 
-coach = Coach.create(name:"Dr. Geovany Keebler")
+coach = Coach.new(name:"Dr. Geovany Keebler")
 coach.save
 
