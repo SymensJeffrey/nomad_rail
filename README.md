@@ -1,7 +1,7 @@
 # README
 
-Clone the repo
-
+*Clone the repo
+  - `git clone https://github.com/SymensJeffrey/nomad_rail.git`
 * Database creation
   - `rails db:create`
 
